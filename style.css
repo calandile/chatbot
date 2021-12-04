@@ -19,15 +19,15 @@ nav {
     margin-top: 10%;
 }
 
-#user-msg {
+#user {
     background-color: #B9CEEB;
 }
 
-#bot-output {
+#bot {
     background-color: #87A8D0;
 }
 
-#user-input {
+input {
     background-color: #dcd2e7;
 }
 

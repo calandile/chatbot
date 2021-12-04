@@ -1,0 +1,4 @@
+const keywords = [
+    "hi",
+    "bot"
+];
