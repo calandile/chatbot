@@ -1,4 +1,0 @@
-const keywords = [
-    "hi",
-    "bot"
-];
